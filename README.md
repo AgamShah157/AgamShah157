@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Agam Shah</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+<h3 align="center">A passionate Data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamshah157&label=Profile%20views&color=0e75b6&style=flat" alt="agamshah157" /> </p>
 
-- 🌱 I’m currently learning **Data analytics Tools**
+- 🌱 I’m currently learning **Data analytics Tools like Mysql, PowerBI, AI, ML, Python**
+
+- 💁‍♂️ I’m interested Exploring innovative solutions and developing cutting-edge methodologies.
+
+- 👀 looking for innovative data analysis on large, complex datasets for collaboration.
 
 - 📫 How to reach me **agamshah900@gmail.com**
 
