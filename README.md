@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamshah157&label=Profile%20views&color=0e75b6&style=flat" alt="agamshah157" /> </p>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 🌱 I’m currently learning **Data analytics Tools like Mysql, PowerBI, AI, ML, Python**
 
 - 💁‍♂️ I’m interested Exploring innovative solutions and developing cutting-edge methodologies.
 
 - 👀 looking for innovative data analysis on large, complex datasets for collaboration.
 
-- 📫 How to reach me **agamshah900@gmail.com**
+- 📫 Preferred method of contact **agamshah900@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
